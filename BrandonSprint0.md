@@ -30,7 +30,7 @@
 	• Fold up
 	• Cut slit
 	• Repeat
-Conclusion
+# Conclusion
 	• Reached 25 inches!!
 	• Seems very successful
 	• Although there is a slight lean at the top
