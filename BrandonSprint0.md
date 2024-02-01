@@ -10,8 +10,7 @@
 	• Repeat until no more support
 # Prototype
 
- !(proto)[https://standrewsaurora.sharepoint.com/sites/Section_23418/_layouts/OneNote.aspx?id=%2Fsites%2FSection_23418%2FSiteAssets%2FTEJ3M-3%20Notebook&wd=target%28Brandon%20Chow%2FArduino.one%7CA1062D61-E153-4CCA-B3EC-3A963A9DE1FB%2FSprint%200%20-%20Paper%20Tower%7CB006CB64-836F-487E-BE53-9C87A9532488%2F%29
-onenote:https://standrewsaurora.sharepoint.com/sites/Section_23418/SiteAssets/TEJ3M-3%20Notebook/Brandon%20Chow/Arduino.one#Sprint%200%20-%20Paper%20Tower&section-id={A1062D61-E153-4CCA-B3EC-3A963A9DE1FB}&page-id={B006CB64-836F-487E-BE53-9C87A9532488}&object-id={A47C7E8D-B717-F6F5-A8FC-17F6437DE11C}&1D]
+![image](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-kungfumaster731/assets/53826472/7cd121f9-159b-44d3-a3d6-7de11b1943a4)
 
 # Testing and Critique
 	• Didn’t hold up
@@ -19,7 +18,7 @@ onenote:https://standrewsaurora.sharepoint.com/sites/Section_23418/SiteAssets/TE
 	
 # Final Design
 
-
+![image](https://github.com/StAndrewsCollege/2324-tej3m-5-e-0-sprint0-kungfumaster731/assets/53826472/a57475ae-0f7b-447c-bf06-e6f1777f6331)
 
 	• Fold paper vertically in half
 	• Cut 90% all the way up
